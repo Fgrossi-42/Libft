@@ -6,11 +6,11 @@
 /*   By: fgrossi <fgrossi@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/19 12:05:27 by fgrossi           #+#    #+#             */
-/*   Updated: 2022/04/29 12:36:45 by fgrossi          ###   ########.fr       */
+/*   Updated: 2022/04/29 16:53:18 by fgrossi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../libft.h"
+#include "../Include/libft.h"
 
 void	ft_lstiter(t_list *lst, void (*f)(void *))
 {

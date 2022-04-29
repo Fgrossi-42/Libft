@@ -6,11 +6,11 @@
 /*   By: fgrossi <fgrossi@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/16 14:56:51 by fgrossi           #+#    #+#             */
-/*   Updated: 2022/04/29 12:33:16 by fgrossi          ###   ########.fr       */
+/*   Updated: 2022/04/29 16:53:18 by fgrossi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../libft.h"
+#include "../Include/libft.h"
 
 int	oversize(int nb, int lenght, char *str)
 {

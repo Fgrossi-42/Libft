@@ -6,11 +6,11 @@
 /*   By: fgrossi <fgrossi@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/11 14:04:40 by fgrossi           #+#    #+#             */
-/*   Updated: 2022/04/29 12:32:46 by fgrossi          ###   ########.fr       */
+/*   Updated: 2022/04/29 16:53:18 by fgrossi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../libft.h"
+#include "../Include/libft.h"
 
 char	*ft_strnstr(const char *str, const char *to_find, size_t len)
 {
